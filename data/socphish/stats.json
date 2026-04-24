@@ -1,0 +1,10 @@
+{
+  "benign_records": 313,
+  "duplicate_sanitized_urls": 6,
+  "malicious_records": 440,
+  "records_with_query_params": 63,
+  "records_with_redacted_query_params": 31,
+  "records_with_shortener_domains": 53,
+  "total_records": 753,
+  "unique_domains": 316
+}

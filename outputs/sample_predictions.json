@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://sites.google.com/view/amazongiftcard20025/home",
+    "malicious": true,
+    "confidence": 5,
+    "reason": "Site appears to be impersonating an Amazon gift card purchase page, likely a phishing scam.",
+    "memory_case": "memory_reuse"
+  },
+  {
+    "url": "https://sweepwidget.com/c/90810-a3cdjvux/oh81q3-90810",
+    "malicious": false,
+    "confidence": 5,
+    "reason": "Analysis shows this is a legitimate sweepstakes site, not Amazon impersonation or phishing.",
+    "memory_case": "full_reasoning"
+  }
+]
