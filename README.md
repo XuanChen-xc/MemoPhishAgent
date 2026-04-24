@@ -5,10 +5,6 @@ This repository is the implementation of the ACL 2026 Industry Track paper **“
 MemoPhishAgent is a multi-modal phishing URL detection framework that combines tool-using LLM agents, phishing-specific tool design, and an episodic memory module. 
 
 <p align="center">
-  <a href="assets/overview.pdf">System overview (PDF)</a>
-</p>
-
-<p align="center">
   <img src="assets/overview.png" alt="MemoPhishAgent system overview" width="100%" />
 </p>
 
